@@ -149,9 +149,9 @@ rss:
       name: "财联社"
       url: "https://hot.rss.ink/feed"
 
-    - id: "theinformation"
-      name: "美股科技深喉"
-      url: "https://www.theinformation.com/feed"
+    - id: "ithome"
+      name: "it之家"
+      url: "https://www.ithome.com/rss/"
 
     # 自定义源示例
     # - id: "custom-feed"
