@@ -99,6 +99,9 @@ platforms:
     - id: "zhihu"
       name: "知乎"
       expected_domain: "zhihu.com"
+    - id: "ths"
+      name: "同花顺"
+      expected_domain: "10jqka.com.cn"
 
 
 
@@ -141,9 +144,9 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "hxw"
-      name: "和讯网"
-      url: "https://rsshub.app/eastmoney/report/strategyreport"
+    - id: "ths"
+      name: "同花顺"
+      url: "https://rsshub.app/10jqka/realtimenews"
 
     - id: "Reuters"
       name: "路透社"
