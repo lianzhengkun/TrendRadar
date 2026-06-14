@@ -141,13 +141,17 @@ rss:
       name: "雅虎财经"
       url: "https://finance.yahoo.com/news/rssindex"
 
-    - id: "eastmoney"
-      name: "东方财富研报"
-      url: "rsshub.app/eastmoney/report/strategyreport"
+    - id: "hxw"
+      name: "和讯网"
+      url: "http://news.hexun.com/rss"
+
+    - id: "Reuters"
+      name: "路透社"
+      url: "http://feeds.feedburner.com/Reuters/china"
 
     - id: "cls"
       name: "财联社"
-      url: "rsshub.app/cls/hot"
+      url: "https://hot.rss.ink/feed"
 
     # 自定义源示例
     # - id: "custom-feed"
